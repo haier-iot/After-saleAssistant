@@ -1,0 +1,35 @@
+{
+	"data": [
+		{
+			"categories": [
+				{
+					"categoryCode": "1000",
+					"categoryName": "网络设置",
+					"categoryUrl": ""
+				},
+				{
+					"categoryCode": "1001",
+					"categoryName": "设备绑定",
+					"categoryUrl": ""
+				},
+				{
+					"categoryCode": "1002",
+					"categoryName": "标签1",
+					"categoryUrl": ""
+				},
+				{
+					"categoryCode": "1003",
+					"categoryName": "标签2",
+					"categoryUrl": ""
+				},
+				{
+					"categoryCode": "1004",
+					"categoryName": "标签3",
+					"categoryUrl": ""
+				}
+			]
+		}
+	],
+	"retCode": "00000",
+	"retInfo": "成功"
+}
