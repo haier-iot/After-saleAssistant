@@ -1,1 +1,31 @@
-{"data":["categories":[{"categoryCode":"10000","categoryName":"网络设置","categoryUrl":"https://raw.githubusercontent.com/haier-iot/After-saleAssistant/master/assistant/question/category_1.json"},{"categoryCode":"10001","categoryName":"设备绑定","categoryUrl":"https://raw.githubusercontent.com/haier-iot/After-saleAssistant/master/assistant/question/category_2.json"},{"categoryCode":"10002","categoryName":"标签1","categoryUrl":"https://raw.githubusercontent.com/haier-iot/After-saleAssistant/master/assistant/question/category_3.json"},{"categoryCode":"10003","categoryName":"标签2","categoryUrl":"https://raw.githubusercontent.com/haier-iot/After-saleAssistant/master/assistant/question/category_4.json"},{"categoryCode":"10004","categoryName":"标签3","categoryUrl":"https://raw.githubusercontent.com/haier-iot/After-saleAssistant/master/assistant/question/category_4.json"}]],"retCode":"00000","retInfo":"成功"}
+{
+    "data": [{"categories": [
+        {
+            "categoryCode": "10000",
+            "categoryName": "网络设置",
+            "categoryUrl": "https://raw.githubusercontent.com/haier-iot/After-saleAssistant/master/assistant/question/category_1.json"
+        },
+        {
+            "categoryCode": "10001",
+            "categoryName": "设备绑定",
+            "categoryUrl": "https://raw.githubusercontent.com/haier-iot/After-saleAssistant/master/assistant/question/category_2.json"
+        },
+        {
+            "categoryCode": "10002",
+            "categoryName": "标签1",
+            "categoryUrl": "https://raw.githubusercontent.com/haier-iot/After-saleAssistant/master/assistant/question/category_3.json"
+        },
+        {
+            "categoryCode": "10003",
+            "categoryName": "标签2",
+            "categoryUrl": "https://raw.githubusercontent.com/haier-iot/After-saleAssistant/master/assistant/question/category_4.json"
+        },
+        {
+            "categoryCode": "10004",
+            "categoryName": "标签3",
+            "categoryUrl": "https://raw.githubusercontent.com/haier-iot/After-saleAssistant/master/assistant/question/category_4.json"
+        }
+    ]}],
+    "retCode": "00000",
+    "retInfo": "成功"
+}
