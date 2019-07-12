@@ -1,15 +1,15 @@
 * 一、常见问题 
-  * （一）配置设备连网  
+  * 配置设备连网  
      * [设置路由器的Wi-Fi](zh-cn/question/01wifi) 
      * [设备连不上网？](zh-cn/Account) 
-  * （二）设备绑定 
+  * 设备绑定 
      * [扫描OID码后提示“设备未接入”怎么办？](zh-cn/Account) 
      * [手动添加设备找不到设备型号？](zh-cn/Account) 
      * [扫码绑定失败？](zh-cn/Account) 
-  * （三）设备离线 
+  * 设备离线 
      * [绑定成功后，设备不在线？](zh-cn/Account) 
      * [设备状态不稳定，频繁上下线？](zh-cn/Account) 
-  * （四）设备升级 
+  * 设备升级 
      * [售后助手APP里找不到目标设备？](zh-cn/Account) 
      * [设备升级失败怎么办？](zh-cn/Account) 
 
