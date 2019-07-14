@@ -28,11 +28,11 @@
 	  //logo: '/_media/icon.png',
 	  alias: {
 	  '/.*en-zh.*/_sidebar.md': '/en-zh/_sidebar.md',
-	  //'/.*en-zh.*/_navbar.md': '/en-zh/_navbar.md',
+	  '/.*en-zh.*/_navbar.md': '/en-zh/_navbar.md',
       '/.*en-us.*/_sidebar.md': '/en-us/_sidebar.md',
-	  //'/.*en-us.*/_navbar.md': '/en-us/_navbar.md',
-	   '/.*/_sidebar.md': '/zh-cn/_sidebar.md',
-	  //'/.*/_navbar.md': '/zh-cn/_navbar.md'
+	  '/.*en-us.*/_navbar.md': '/en-us/_navbar.md',
+	  '/.*/_sidebar.md': '/zh-cn/_sidebar.md',
+	  '/.*/_navbar.md': '/zh-cn/_navbar.md'
     },
 	loadNavbar: true,   // 配置头部导航
 	coverpage: false ,   // 配置封面
@@ -79,7 +79,7 @@
                 hook.beforeEach(function (html) {
                     var url = 'https://github.com/haier-iot/guide/blob/master/' + vm.route.file;
                     var editHtml = '[📝 EDIT DOCUMENT](' + url + ')\n';
-                    var github = "<div  data-tooltip-title=\"Star it if you like\" data-tooltip-position=\"top\" class=\"tool-tip\"><iframe src=\"https://ghbtns.com/github-btn.html?user=haier-iot&amp;repo=guide&amp;type=watch&amp;count=true\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"0\" width=\"110\" height=\"20\" style='margin:0 10px -6px'></iframe></div>";
+                    var github = "<div style=\"display: none;\" data-tooltip-title=\"Star it if you like\" data-tooltip-position=\"top\" class=\"tool-tip\"><iframe src=\"https://ghbtns.com/github-btn.html?user=haier-iot&amp;repo=guide&amp;type=watch&amp;count=true\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"0\" width=\"110\" height=\"20\" style='margin:0 10px -6px'></iframe></div>";
           var editHtml = '<a href='+ url +' data-tooltip-title=\"Correct this doc\" data-tooltip-position=\"top\" class=\"tool-tip\" target=\"_blank\"><img class=\"emoji\" src=\"https://img.alicdn.com/tfs/TB1ica2lcLJ8KJjy0FnXXcFDpXa-128-128.png\" alt=\"Edit\"></a>';
           return "<div class=\"tool-docs-header\">"
 		  + editHtml
