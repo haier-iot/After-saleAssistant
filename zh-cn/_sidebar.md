@@ -14,11 +14,11 @@
      * [设备升级失败怎么办？](zh-cn/question/update-02updatefailed) 
 
 * 二、网络诊断 
-    * [Wi-Fi信号强度弱的改进措施](zh-cn/Session) 
-    * [ping路由器成功率低的改进措施](zh-cn/Session) 
-    * [ping路由器时延过长的改进措施](zh-cn/Session) 
-    * [ping云平台成功率低的改进措施](zh-cn/Session) 
-    * [ping云平台时延过长的改进措施](zh-cn/Session)    
+    * [Wi-Fi信号强度弱的改进措施](zh-cn/Network/Wifi_signal_strength) 
+    * [ping路由器成功率低的改进措施](zh-cn/Network/ping_router_rate) 
+    * [ping路由器时延过长的改进措施](zh-cn/Network/ping_router_delay) 
+    * [ping云平台成功率低的改进措施](zh-cn/Network/ping_cloud_rate) 
+    * [ping云平台时延过长的改进措施](zh-cn/Network/ping_cloud_delay)    
 
 
 
