@@ -6,8 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+  <!--<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">-->
+  <!--<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">-->
+  <link rel="stylesheet" href="CSS/vue.css">
+  <link rel="stylesheet" href="CSS/gitalk.css">
   <style>
   .tool-docs-header{position:absolute;top:50px;right:0}.tool-tip{display:inline-block;position:relative}.tool-tip::after{background-color:#323a45;border-radius:2px;color:#fff;content:attr(data-tooltip-title) " ";font-weight:normal;min-width:106px;padding:4px 6px;text-align:center;text-transform:none}.tool-tip::before{width:0;height:0;content:""}.tool-tip::before,.tool-tip::after{position:absolute;transition:opacity 250ms ease 0ms, transform 250ms ease 0ms;transform-style:preserve-3d;opacity:0;z-index:-1}.tool-tip[data-tooltip-position="top"]::after{left:50%}.tool-tip[data-tooltip-position="top"]::after{transform:translate3d(-50%, 10px, 0)}.tool-tip[data-tooltip-position="top"]::after{bottom:calc(100% + 10px)}.tool-tip[data-tooltip-position="top"]::before{border-left:7px solid transparent;border-right:7px solid transparent;left:50%}.tool-tip[data-tooltip-position="top"]::before{transform:translate3d(-50%, 10px, 0)}.tool-tip[data-tooltip-position="top"]::before{border-top:7px solid #323a45;bottom:calc(100% + 3px)}.tool-tip:hover::before,.tool-tip:hover::after{opacity:1;z-index:100}.tool-tip[data-tooltip-position="top"]:hover::before,.tool-tip[data-tooltip-position="bottom"]:hover::before,.tool-tip[data-tooltip-position="top"]:hover::after,.tool-tip[data-tooltip-position="bottom"]:hover::after{transform:translate3d(-50%, 0, 0)}
   </style>
@@ -93,24 +95,33 @@
         ]
 	}
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <!--<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>-->
+  <!--<script src="//unpkg.com/docsify/lib/plugins/search.js"></script>-->
+  <script src="JS/docsify.min.js"></script>
+  <script src="JS/search.js"></script>
   
   <!--<script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>-->
-  <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>  
-   <script src="//unpkg.com/prismjs/components/prism-java.js"></script>  
+  <script src="JS/index.js"></script>
+  <!--<script src="//unpkg.com/prismjs/components/prism-bash.js"></script>  -->
+   <!--<script src="//unpkg.com/prismjs/components/prism-java.js"></script>  -->
+   <script src="JS/prism-bash.js"></script>
+   <script src="JS/prism-java.js"></script>
    <script>
   if (typeof navigator.serviceWorker !== 'undefined') {
     navigator.serviceWorker.register('sw.js')
   }
 </script>
 
-<script src="//unpkg.com/docsify-copy-code"></script>
+<!--<script src="//unpkg.com/docsify-copy-code"></script>-->
+<script src="JS/docsify-copy-code.min.js"></script>
 
-<script src="//cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
+<!--<script src="//cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>-->
+<script src="JS/md5.min.js"></script>
 
-<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<!--<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>-->
+<!--<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>-->
+<script src="JS/plugins-gitalk.min.js"></script>
+<script src="JS/dist-gitalk.min.js"></script>
 <script>
 //  const gitalk = new Gitalk({
 //    clientID: 'e6c7f3bde76e9040afc4',
