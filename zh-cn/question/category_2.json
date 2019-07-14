@@ -2,29 +2,19 @@
 	"data": {
 		"questions": [
 			{
-				"questionCode": "10004",
-				"questionName": "绑定问题5",
-				"questionUrl": "http://baijiahao.baidu.com/s?id=1638451217867706871"
-			},
-			{
-				"questionCode": "10003",
-				"questionName": "绑定问题4",
-				"questionUrl": "http://baijiahao.baidu.com/s?id=1638445252922227085"
-			},
-			{
 				"questionCode": "10002",
-				"questionName": "绑定问题3",
-				"questionUrl": "https://3w.huanqiu.com/a/a4d1ef/7O8nZ6p2c5q?agt=8"
+				"questionName": "扫描OID码后提示“设备未接入”怎么办？",
+				"questionUrl": "https://haier-iot.github.io/After-saleAssistant/#/zh-cn/question/BindingDevice-01OID"
 			},
 			{
 				"questionCode": "10001",
-				"questionName": "绑定问题2",
-				"questionUrl": "http://opinion.people.com.cn/n1/2019/0708/c1003-31218447.html"
+				"questionName": "手动添加设备找不到设备型号？",
+				"questionUrl": "https://haier-iot.github.io/After-saleAssistant/#/zh-cn/question/BindingDevice-02notfound"
 			},
 			{
 				"questionCode": "10000",
-				"questionName": "绑定问题1",
-				"questionUrl": "http://news.cri.cn/20190708/dbefcad4-d37d-270c-8d0d-32602e073c99.html"
+				"questionName": "扫码绑定失败？",
+				"questionUrl": "https://haier-iot.github.io/After-saleAssistant/#/zh-cn/question/BindingDevice-03bindingfailed"
 			}
 		]
 	},
