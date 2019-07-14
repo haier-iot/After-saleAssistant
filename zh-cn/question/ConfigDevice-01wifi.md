@@ -1,4 +1,3 @@
-####  设置路由器的Wi-Fi
 #####   登录路由器的管理界面
 在路由器壳体背面的标贴纸上，可以查看到管理页面或管理IP，这个地址就是用来登录路由器的地址。<br><div align="center">![loginurl](images/ConfigDevice-01wifi-001.jpg "loginurl")</div>
 
