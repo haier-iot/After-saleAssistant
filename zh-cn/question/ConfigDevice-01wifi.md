@@ -1,8 +1,10 @@
 ###   登录路由器的管理界面
 在路由器壳体背面的标贴纸上，可以查看到管理页面或管理IP，这个地址就是用来登录路由器的地址。
+
 ![markdown](https://www.mdeditor.com/images/logos/markdown.png "markdown")
 
 打开浏览器在浏览器中输入路由器管理地址，输入路由器的管理密码（对于较老版本的路由器要求输入用户名和密码）后，点击登录/确认按钮，就可以登录到路由器的管理界面了。
+
 ![markdown](https://www.mdeditor.com/images/logos/markdown.png "markdown")
 
 提示：点击登录/确认按钮无反应、登录界面显示不完整或者重复提示输入密码，请更换浏览器尝试。
