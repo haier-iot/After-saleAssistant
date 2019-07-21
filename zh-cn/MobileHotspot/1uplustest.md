@@ -6,3 +6,5 @@
 3、先开启热点，再设置热点<br><div align="center">![opensetting](/hotspotimg/step03.png "opensetting")</div><br>
 4、在“设置热点”界面输入网络名称、密码，选择网络频段，点击“保存”，热点开启和设置完毕<br><div align="center">![settingssid](/hotspotimg/step041uplustest.png "settingssid")</div><br>
 5、返回优家售后助手APP，在“设备升级”里的“开启热点”界面，点击“下一步”<br><div align="center">![settingok](/hotspotimg/step051uplustest.png "settingok")</div><br>
+
+
