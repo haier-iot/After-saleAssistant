@@ -18,7 +18,11 @@
     * [ping路由器成功率低的改进措施](zh-cn/Network/ping_router_rate) 
     * [ping路由器时延过长的改进措施](zh-cn/Network/ping_router_delay) 
     * [ping云平台成功率低的改进措施](zh-cn/Network/ping_cloud_rate) 
-    * [ping云平台时延过长的改进措施](zh-cn/Network/ping_cloud_delay)    
+    * [ping云平台时延过长的改进措施](zh-cn/Network/ping_cloud_delay)  
+
+* 三、手机开启热点引导 
+    * [开启和设置haieruhome热点](zh-cn/MobileHotspot/haieruhome) 
+    * [开启和设置1uplustest热点](zh-cn/MobileHotspot/1uplustest)    
 
 
 
