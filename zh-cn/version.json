@@ -3,7 +3,7 @@
 	"retInfo": "成功",
 	"data": {
 		"desc": "1、自动检测APP新版本功能上线，以后有新版本的APP就不需要卸载重装了，直接升级就可以了。\r\n2、模块升级策略和升级包对接了云平台，在云平台完成模块升级校验并下载升级包到本地。\r\n3、优化了操作体验.",
-		"versionCode": 19071819,
+		"versionCode": 19072415,
 		"versionName": "V2.4.01",
 		"resourceUrl": "https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.3.01-2019062815_20190702101442719.apk",
 		"isForce": 0
