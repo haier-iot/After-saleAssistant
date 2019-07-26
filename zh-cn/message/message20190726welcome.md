@@ -2,7 +2,8 @@
 <head> 
 <style type="text/css"> 
 body {  
-  margin-top: -40px; 
+  margin-top: -60px; 
+  font-size: 18px;
 }  
 </style>  
 </head>  
