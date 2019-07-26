@@ -3,7 +3,7 @@
 <style type="text/css"> 
 body {  
   margin-top: -60px; 
-  font-size: 18px;
+  font-size: 18px; 
 }  
 </style>  
 </head>  
