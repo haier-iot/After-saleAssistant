@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="HaierUbic">
+  <meta name="Copyright" content="HaierUbic">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="format-detection" content="telephone=no" />
+  <title>优家售后助手APP下载</title>
+  <link rel="stylesheet" href="./styles/style-4121602868.css">
+  <style>
+    #getUAPP_new{
+      display: block!important;
+    }
+  </style>
+  <script>
+    (function (win,doc){
+    if (!win.addEventListener) return;
+    var html=document.documentElement;
+    function setFont()
+    {
+      var cliWidth=html.clientWidth;
+      html.style.fontSize=100*(cliWidth/750)+'px';
+    }
+    win.addEventListener('resize',setFont,false);
+    setFont();
+    })(window,document);
+	
+	
+	isWeixin = function() {
+    let wx = navigator.userAgent.toLowerCase()
+    if (wx.match(/MicroMessenger/i) === 'micromessenger') {
+      //return alert('weixin');
+	  return document.getElementById("mask_open").style.display = "block";
+    } else {
+      return window.location.href = 'https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.3.01-2019062815_20190702101442719.apk';
+    }
+  };
+
+    mask_open_hidden = function() {
+	  document.getElementById("mask_open").style.display = "none";
+    };
+	
+  </script>
+</head>
+<body>
+  <div id="page_down" class="wrapper">
+    <div class="bg_stop"></div>
+  </div>
+  <div id="page_active" class="wrapper">
+    <section id="getUAPP_new" class="getUAPP" style="margin-top: 7rem">
+      <div class="btn_down">
+        <a id="andeoid_UAPP_new" class="btn_get" href="#" onclick="isWeixin();"></a>
+      </div>
+    </section>
+    <div class="bg"></div>
+    <!--指向浏览器-->
+    <div class="mask" id="mask_open" onclick="mask_open_hidden();"></div>
+  </div>
+</body>
+<script src="./scripts/jquery-2-b690c8b8ef.1.4.min.js"></script>
+
+
+
+</html>
