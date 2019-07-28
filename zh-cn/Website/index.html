@@ -29,15 +29,26 @@
     })(window,document);
 	
 	
-	isWeixin = function() {
-    let wx = navigator.userAgent.toLowerCase()
-    if (wx.match(/MicroMessenger/i) === 'micromessenger') {
-      //return alert('weixin');
-	  return document.getElementById("mask_open").style.display = "block";
-    } else {
-      return window.location.href = 'https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.3.01-2019062815_20190702101442719.apk';
-    }
-  };
+//	isWeixin = function() {
+ //   let wx = navigator.userAgent.toLowerCase()
+  //  if (wx.match(/MicroMessenger/i) === 'micromessenger') {
+   //   //return alert('weixin');
+	//  return document.getElementById("mask_open").style.display = "block";
+    //} else {
+     // return window.location.href = 'https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.3.01-2019062815_20190702101442719.apk';
+   // }
+  //};
+  
+// isweixin
+    function is_weixin(){
+      var ua = navigator.userAgent.toLowerCase();
+      if (ua.match(/MicroMessenger/i) == "micromessenger") {
+        return document.getElementById("mask_open").style.display = "block";
+      } else {
+        return window.location.href = 'https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.3.01-2019062815_20190702101442719.apk';
+      }
+    } 
+  
 
     mask_open_hidden = function() {
 	  document.getElementById("mask_open").style.display = "none";
@@ -52,7 +63,7 @@
   <div id="page_active" class="wrapper">
     <section id="getUAPP_new" class="getUAPP" style="margin-top: 7rem">
       <div class="btn_down">
-        <a id="andeoid_UAPP_new" class="btn_get" href="#" onclick="isWeixin();"></a>
+        <a id="andeoid_UAPP_new" class="btn_get" href="#" onclick="is_weixin();"></a>
       </div>
     </section>
     <div class="bg"></div>
