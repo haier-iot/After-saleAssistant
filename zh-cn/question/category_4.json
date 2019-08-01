@@ -2,14 +2,19 @@
 	"data": {
 		"questions": [
 			{
-				"questionCode": "10001",
+				"questionCode": "10002",
 				"questionName": "售后助手APP里找不到目标设备？",
 				"questionUrl": "https://haier-iot.github.io/After-saleAssistant/#/zh-cn/question/update-01notfound"
 			},
 			{
-				"questionCode": "10000",
+				"questionCode": "10001",
 				"questionName": "设备升级失败怎么办？",
 				"questionUrl": "https://haier-iot.github.io/After-saleAssistant/#/zh-cn/question/update-02updatefailed"
+			},
+			{
+				"questionCode": "10000",
+				"questionName": "已经找到设备，App还显示“正在查找目标设备”？",
+				"questionUrl": "https://haier-iot.github.io/After-saleAssistant/#/zh-cn/question/update-03findingdevice"
 			}
 		]
 	},

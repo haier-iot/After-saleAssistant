@@ -12,6 +12,7 @@
   * 设备升级 
      * [售后助手APP里找不到目标设备？](zh-cn/question/update-01notfound) 
      * [设备升级失败怎么办？](zh-cn/question/update-02updatefailed) 
+     * [已经找到设备，App还显示“正在查找目标设备”？](zh-cn/question/update-03findingdevice) 
 
 * 二、网络诊断 
     * [Wi-Fi信号强度弱的改进措施](zh-cn/Network/Wifi_signal_strength) 
