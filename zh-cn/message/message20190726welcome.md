@@ -9,8 +9,8 @@ body {
 </head>  
 <body>  
 <div align="center"><h4><b>欢迎使用海尔优家售后助手</b></h3></div>    
-<div align="center">2019-07-30</div>    
+<div align="center">2019-08-10</div>    
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎使用海尔优家售后助手APP，目前的版本是2.4。  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎使用海尔优家售后助手APP，目前的版本是2.4.1。  
 </body>  
 </html>  
