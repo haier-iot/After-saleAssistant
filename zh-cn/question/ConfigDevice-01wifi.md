@@ -7,7 +7,7 @@
 #####   设置路由器的Wi-Fi
 点击“路由设置”进入界面后，再点击“无线设置”,来设置路由器的Wi-Fi。<br><div align="center">![wifisetting](/images/ConfigDevice-01wifi-003.png "wifisetting")</div><br>
 1、Wi-fi名称不能有中文，名称长度不能超过32个字符。</br>2、无线模式使用Bg模式。</br>3、具有5G功能的路由器，要关闭2.4G和5G的混频，使用2.4G频段的wifi。</br>4、有的路由器具有“防蹭网”功能，要关闭这个功能。</br>
-5、有的路由器具有“白名单”功能，请关闭“白名单”功能或者把网器的MAC地址加入白名单。</br>
+5、具有“白名单”功能的路由器，请关闭“白名单”功能或者把网器的MAC地址加入白名单。</br>
 设置完毕后，点击“保存”按钮。</br></br>
 再点击“DHCP服务器”按钮进入界面，打开路由器的“DHCP”功能，点击“保存”按钮。</br><div align="center">![DHCPsetting](/images/ConfigDevice-01wifi-004.png "DHCPsetting")</div>
 
