@@ -2,10 +2,10 @@
 	"retCode": "00000",
 	"retInfo": "成功",
 	"data": {
-		"desc": "1、自动检测APP新版本功能上线，以后有新版本的APP就不需要卸载重装了，直接升级就可以了。\r\n2、模块升级策略和升级包对接了云平台，在云平台完成模块升级校验并下载升级包到本地。\r\n3、优化了操作体验.",
-		"versionCode": 19081011,
-		"versionName": "v2.4.1",
-		"resourceUrl": "https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.4.10_20190810143445379.apk",
+		"desc": "1、自动检测APP新版本功能上线，以后有新版本的APP就不需要卸载重装了，直接升级就可以了。\r\n2、优化了操作体验。",
+		"versionCode": 19083017,
+		"versionName": "v2.4.2",
+		"resourceUrl": "https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.4.20_20190830183840880.apk",
 		"isForce": 0
 	}
 }
