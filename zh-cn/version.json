@@ -2,10 +2,10 @@
 	"retCode": "00000",
 	"retInfo": "成功",
 	"data": {
-		"desc": "1、自动检测APP新版本功能上线，以后有新版本的APP就不需要卸载重装了，直接升级就可以了。\r\n2、优化了操作体验。",
-		"versionCode": 19083017,
-		"versionName": "v2.4.2",
-		"resourceUrl": "https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.4.20_20190830183840880.apk",
+		"desc": "新增门店验收功能，包括出样验收、版本验收、网器验收等。",
+		"versionCode": 19122715,
+		"versionName": "v2.5.0",
+		"resourceUrl": "https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.5.0_20191227174133640.apk",
 		"isForce": 0
 	}
 }
