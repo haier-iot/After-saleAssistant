@@ -2,10 +2,10 @@
 	"retCode": "00000",
 	"retInfo": "成功",
 	"data": {
-		"desc": "新增门店验收功能，包括出样验收、版本验收、网器验收等。",
-		"versionCode": 19122715,
-		"versionName": "v2.5.0",
-		"resourceUrl": "https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.5.0_20191227174133640.apk",
+		"desc": "新增门店规划场景功能，包括规划场景管理，场景配置指导，场景操作手册下载，场景配置之后验收并输出报告。",
+		"versionCode": 20031914,
+		"versionName": "v2.6.0",
+		"resourceUrl": "https://resource.haigeek.com/download/resource/selfService/admin/uAssistant-v2.6.0_20200320120934458.apk",
 		"isForce": 0
 	}
 }
