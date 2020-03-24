@@ -2,6 +2,12 @@
 	"data": {
 		"contents": [
 			{
+				"contentId": "10008",
+				"contentName": "海尔优家售后助手2.6.0发布",
+				"contentTime": "2020-3-24",
+				"contentUrl": "https://haier-iot.github.io/After-saleAssistant/#/zh-cn/message/message20200320welcome"
+			},
+			{
 				"contentId": "10007",
 				"contentName": "海尔优家售后助手2.5.0发布",
 				"contentTime": "2019-12-27",
