@@ -19,7 +19,7 @@ body {
   
 <h4 style='text-align:center'>扫描二维码安装</h4>
 <center>
-  <img src="https://github.com/haier-iot/After-saleAssistant/blob/master/zh-cn/message/images/img_version.png" alt="下载二维码"/>
+  <img src="https://github.com/haier-iot/After-saleAssistant/raw/master/zh-cn/message/images/img_version.png" alt="下载二维码"/>
 </center>
 </body>
 </html>  
