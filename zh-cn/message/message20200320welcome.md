@@ -16,11 +16,9 @@ body {
 <p style="text-indent:2em;">
 海尔优家售后助手APP2.6版本新增门店规划场景功能，包括规划场景管理，场景配置指导，场景操作手册下载，场景配置之后验收并输出报告。
 </p>
-<div style="text-align:center;">
-<h4>扫描二维码安装</h4>
-<p>
-![ercode](/images/img_version.png "ercode")
-</p>
-</div>
+<h4 style='text-align:center'>扫描二维码安装</h4>
+<center>
+![ercode](/images/img_version.png "二维码")
+</center>
 </body>
 </html>  
