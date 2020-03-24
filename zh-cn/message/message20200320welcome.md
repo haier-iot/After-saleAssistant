@@ -19,6 +19,5 @@ body {
 <h4 style='text-align:center'>扫描二维码安装</h4>
 <center>
 ![ercode](/images/img_version.png "二维码")
-</center>
 </body>
 </html>  
